@@ -1,2 +1,2 @@
 # UASRANDOMFORESTCLASSIFICATION
-UAS KECERDASAN BUATAN
+Random Forest Classification tentang Data set Iris
